@@ -1,0 +1,14 @@
+# CLion specific
+.idea/
+*.iml
+
+# CMake specific
+cmake-build-*/
+
+# build files
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.dSYM/
